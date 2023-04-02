@@ -1,0 +1,8 @@
+.grey-bg {  
+    background-color: #F5F7FA;
+}
+
+
+.card-content:hover{
+    cursor: pointer;
+}
